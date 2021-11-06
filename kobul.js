@@ -1,0 +1,1 @@
+console.log(confirm('are you merry me'));

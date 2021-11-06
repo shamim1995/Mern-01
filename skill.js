@@ -1,0 +1,1 @@
+console.log(prompt(`what's your skill`));
