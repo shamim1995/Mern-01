@@ -1,1 +1,1 @@
-console.log(confirm('are you merry me'));
+console.log(confirm('Are you merry me'));
